@@ -13,6 +13,7 @@ rm -f /home/ubuntu/django-student-management-system-master/.idea/vcs.xml
 rm -f /home/ubuntu/django-student-management-system-master/.idea/misc.xml
 rm -f /home/ubuntu/django-student-management-system-master/.idea/django-student-management-system-master.iml
 rm -f /home/ubuntu/django-student-management-system-master/.idea/modules.xml
+rm -f /home/ubuntu/django-student-management-system-master/.idea/workspace.xml
 
 # Output success message
 echo "Cleanup completed successfully."
